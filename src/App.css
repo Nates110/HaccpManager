@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.card-header {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.card-body {
+  font-size: 1rem;
+}
+
+.card-footer {
+  font-size: 1rem;
+  font-weight: bold;
+}
